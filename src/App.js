@@ -10,7 +10,7 @@ function App() {
      <h1 >Airbnb's Frontend</h1>
      </div>
      <p>@spikebrehm</p>
-     <img src={logo}></img>
+     <img src={logo}  alt = "logo"></img>
 
 
     </div>
