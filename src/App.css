@@ -1,0 +1,17 @@
+
+
+.App{
+  background-color: rgb(255, 90, 95);
+  
+  width: 400px;
+  height: 250px;
+  padding: 10px;
+  color: white;
+  text-align: center;
+  margin: auto ;
+  
+}
+img{
+  height: 30px;
+  
+}
